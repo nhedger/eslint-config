@@ -1,6 +1,6 @@
 {
   "name": "@hedger/eslint-config-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "author": {
     "name": "Nicolas Hedger",
@@ -27,5 +27,8 @@
   },
   "devDependencies": {
     "eslint": "^8.38.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

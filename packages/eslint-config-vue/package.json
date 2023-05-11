@@ -1,0 +1,29 @@
+{
+  "name": "@hedger/eslint-config-vue",
+  "version": "0.0.0",
+  "description": "",
+  "author": {
+    "name": "Nicolas Hedger",
+    "email": "nicolas@hedger.ch"
+  },
+  "license": "MIT",
+  "keywords": [
+    "eslint-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "eslint": ">=7.4.0"
+  },
+  "dependencies": {
+    "@hedger/eslint-config-basic": "workspace:*",
+    "@hedger/eslint-config-ts": "workspace:*",
+    "eslint-plugin-vue": "^9.11.0",
+    "local-pkg": "^0.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "name": "@hedger/eslint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Nicolas's ESLint config",
   "author": {
     "name": "Nicolas Hedger",
